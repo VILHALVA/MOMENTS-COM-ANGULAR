@@ -121,7 +121,7 @@ Portanto, o projeto "Instagram em Angular" pode ser considerado um CRUD completo
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
-- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
+- [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [PROJETO CRIADO PARA O CURSO DE ANGULAR](https://github.com/VILHALVA/CURSO-DE-ANGULAR)
 
 
