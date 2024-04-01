@@ -1,12 +1,12 @@
 # INSTAGRAM EM ANGULAR
 👨‍🏫PROJETO CRIADO PARA O CURSO DE ANGULAR.
 
-<img src="./IMAGENS/FOTO_01.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_02.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_03.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_04.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_05.png" align="center" width="500"> <br> 
-<img src="./IMAGENS/FOTO_06.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_4.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_5.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_6.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 - O projeto "Instagram em Angular" é uma aplicação web que permite aos usuários compartilhar momentos por meio de fotos e legendas, seguindo o conceito básico da popular rede social Instagram. Esta aplicação será desenvolvida utilizando o framework Angular para o frontend e o  `Postman` (Com `DATABASE.json`) como banco de dados para armazenar as informações.
