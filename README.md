@@ -33,14 +33,6 @@
 
 Portanto, o projeto "Instagram em Angular" pode ser considerado um CRUD completo, pois oferece funcionalidades para criar, ler, atualizar e excluir postagens.
 
-## TECNOLOGIAS:
-- **Angular:** Framework front-end para a construção da interface do usuário.
-- **MySQL:** Banco de dados relacional para armazenar os dados dos usuários, fotos e legendas.
-- **Node.js:** Ambiente de execução JavaScript que permitirá a construção do backend da aplicação.
-- **Express.js:** Framework Node.js para a construção de APIs RESTful para interação com o banco de dados.
-- **HTML/CSS:** Para a estrutura e estilo da aplicação web.
-- **Bootstrap ou Material Design:** Para facilitar o design responsivo e a interface do usuário.
-
 ## EXECUTANDO O PROJETO:
 1. **Iniciando o Servidor Localmente:**
    Antes de fazer solicitações para a URL da API, é necessário iniciar o servidor localmente. Se estiver usando o framework Adonis.js, você pode iniciar o servidor executando o comando (No diretório: `API`):
