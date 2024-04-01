@@ -1,0 +1,112 @@
+{
+    "data": [
+        {
+            "id": 2,
+            "title": "AMIGOS EM UMA CHACARA",
+            "description": "É um cenário que evoca imagens de convivência descontraída e momentos de diversão em meio à natureza. Nesse contexto, amigos se reúnem em uma chácara, geralmente localizada em áreas rurais ou suburbanas, para desfrutar de momentos de relaxamento, lazer e companheirismo. As atividades podem variar desde churrascos ao ar livre, pescaria em lagos ou rios próximos, trilhas pela mata, até simplesmente aproveitar a paz e a tranquilidade do ambiente campestre. Esses encontros muitas vezes envolvem partilha de histórias, risadas, jogos e uma sensação de escapismo da rotina urbana. A chácara proporciona um espaço propício para fortalecer os laços de amizade, renovar energias e criar memórias inesquecíveis em meio à beleza natural.",
+            "image": "34c57bbc-2441-42b1-88e7-5b92e8384e4e.jpg",
+            "created_at": "2024-04-01T16:51:13.000-05:00",
+            "updated_at": "2024-04-01T16:51:13.000-05:00",
+            "comments": [
+                {
+                    "id": 1,
+                    "username": "VILHALVA",
+                    "text": "BONS TEMPOS!",
+                    "moment_id": 2,
+                    "created_at": "2024-04-01T16:51:55.000-05:00",
+                    "updated_at": "2024-04-01T16:51:55.000-05:00"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "UMA MULHER MEDITANDO NA PRAIA",
+            "description": "Uma mulher meditando na praia é uma imagem que transmite serenidade, conexão com a natureza e introspecção. Nesse cenário, a figura feminina encontra-se em um ambiente tranquilo, cercado pela vastidão do mar e pela brisa suave que acaricia a costa. Sentada ou deitada na areia, ela adota uma postura calma e concentrada, imersa em um estado de contemplação profunda.\r\n\r\nEnquanto medita, a mulher pode estar concentrada em sua respiração, buscando alcançar um estado de equilíbrio interior e paz mental. O som das ondas quebrando na praia e o aroma salgado do oceano contribuem para criar uma atmosfera de relaxamento e conexão com o presente.\r\n\r\nEssa imagem sugere uma busca pela harmonia interior, um momento de pausa para renovar as energias e encontrar clareza mental em meio às demandas do dia a dia. A praia, com sua imensidão e beleza natural, serve como um cenário inspirador para a prática da meditação, convidando a mulher a se reconectar consigo mesma e com o universo ao seu redor.",
+            "image": "df0c796c-0258-4a4a-986c-b6a1029bc6bf.jpg",
+            "created_at": "2024-04-01T16:53:11.000-05:00",
+            "updated_at": "2024-04-01T16:53:11.000-05:00",
+            "comments": [
+                {
+                    "id": 2,
+                    "username": "VILHALVA",
+                    "text": "NUNCA FUI A PRAIA. PARECE LEGAL",
+                    "moment_id": 3,
+                    "created_at": "2024-04-01T16:53:47.000-05:00",
+                    "updated_at": "2024-04-01T16:53:47.000-05:00"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "CORRENDO COM A ESPOSA NA ESTRADA NO OUTONO",
+            "description": "Correndo com a esposa na estrada no outono, o cenário se desdobra em uma experiência de cumplicidade e apreciação da natureza em transformação. Enquanto o casal avança lado a lado, as folhas outonais dançam ao ritmo do vento, formando um tapete vibrante de tons dourados e avermelhados que se estende pela estrada.\r\n\r\nO frescor do ar outonal envolve os corredores, revigorando seus sentidos e impulsionando-os adiante. O som dos passos ecoa na tranquilidade da paisagem, intercalado pelo suave farfalhar das folhas sob seus pés. À medida que avançam, compartilham não apenas o exercício físico, mas também momentos de conversa e risos, fortalecendo os laços da parceria e do amor.\r\n\r\nA luz suave do sol filtrada através das copas das árvores cria uma atmosfera de calor e nostalgia, enquanto a brisa fresca do outono acaricia seus rostos. O casal testemunha a beleza efêmera da estação, saboreando cada momento enquanto as cores do outono se desvanecem em tons mais suaves, preparando o cenário para a chegada do inverno.\r\n\r\nCorrendo juntos na estrada no outono, o casal não apenas desfruta da atividade física, mas também celebra a vida, a natureza e a união que os une em uma jornada compartilhada.",
+            "image": "5db21d11-4ddc-4abb-960c-bc7962f07098.jpg",
+            "created_at": "2024-04-01T16:55:08.000-05:00",
+            "updated_at": "2024-04-01T16:55:08.000-05:00",
+            "comments": [
+                {
+                    "id": 3,
+                    "username": "VILHALVA",
+                    "text": "ISSO É APENAS PARA O PROJETO!",
+                    "moment_id": 4,
+                    "created_at": "2024-04-01T16:55:34.000-05:00",
+                    "updated_at": "2024-04-01T16:55:34.000-05:00"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "FAZENDO MUDANÇA EM UM NOVO APARTAMENTO",
+            "description": "Fazer mudança para um novo apartamento é uma experiência que mistura animação, organização e um toque de nostalgia. À medida que as caixas são empilhadas e os pertences são embalados, uma sensação de antecipação toma conta do ar. O novo espaço representa um recomeço, uma página em branco onde novas memórias serão escritas.\r\n\r\nO apartamento vazio aguarda para ser preenchido com a personalidade e o estilo dos seus novos moradores. À medida que móveis são arrastados e quadros são pendurados nas paredes, o espaço começa a ganhar vida. Cada objeto colocado em seu lugar traz consigo uma história ou um propósito, transformando uma simples sala em um lar.\r\n\r\nApesar dos desafios logísticos e do cansaço físico que inevitavelmente acompanham uma mudança, há também uma sensação de liberdade e empolgação. O novo apartamento representa possibilidades infinitas, novos vizinhos para conhecer e novos cantos para explorar.\r\n\r\nÀ medida que o último item é colocado no lugar e as caixas vazias são empilhadas para reciclagem, surge um sentimento de realização. O novo apartamento agora é mais do que apenas um espaço físico - é um refúgio, um santuário onde seus ocupantes podem se sentir verdadeiramente em casa.",
+            "image": "2e313634-4167-4a91-a6ea-c353f3ac0c3d.jpg",
+            "created_at": "2024-04-01T16:56:44.000-05:00",
+            "updated_at": "2024-04-01T16:56:44.000-05:00",
+            "comments": [
+                {
+                    "id": 4,
+                    "username": "VILHALVA",
+                    "text": "COISA DE GENTE RICA!",
+                    "moment_id": 5,
+                    "created_at": "2024-04-01T16:57:18.000-05:00",
+                    "updated_at": "2024-04-01T16:57:18.000-05:00"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "TOMANDO CAFÉ",
+            "description": "Tomar café é mais do que uma simples ingestão de cafeína - é um ritual que muitos apreciam diariamente. Desde o aroma tentador que permeia o ar até o sabor reconfortante que aquece o corpo, cada xícara de café oferece uma experiência única e pessoal.\r\n\r\nO processo de preparar café começa com a seleção dos grãos - alguns preferem um café robusto e encorpado, enquanto outros optam por blends mais suaves e aromáticos. A moagem dos grãos, o aroma fresco que se desprende ao abrir o pacote e o som reconfortante da água fervendo criam uma antecipação palpável.\r\n\r\nAo verter a água quente sobre o café moído, a magia acontece. O líquido escuro começa a se misturar, liberando seus óleos e sabores únicos. O café é então coado ou preparado de acordo com a preferência individual - talvez em uma cafeteira tradicional, uma prensa francesa ou até mesmo em um método mais moderno, como uma máquina de espresso.\r\n\r\nFinalmente, chega o momento de saborear o café. O primeiro gole é uma explosão de sabor, uma mistura complexa de notas amargas e doces que despertam os sentidos. A temperatura quente do líquido contrasta com a frescura da manhã ou oferece conforto em uma tarde fria. Cada gole é uma pausa para reflexão, um momento de indulgência pessoal em meio à agitação do dia.\r\n\r\nTomar café não é apenas uma questão de nutrição, mas também de conexão - consigo mesmo, com os outros e com o mundo ao seu redor. É um momento para recarregar as energias, reunir pensamentos ou simplesmente apreciar a sensação reconfortante de uma xícara quente entre as mãos. Em seu ritual diário, o café transcende seu status de bebida e se torna uma parte intrínseca da experiência humana.",
+            "image": "cb27182b-fbae-4dfc-8c0b-696d2f65cfff.jpg",
+            "created_at": "2024-04-01T16:58:09.000-05:00",
+            "updated_at": "2024-04-01T16:58:09.000-05:00",
+            "comments": [
+                {
+                    "id": 5,
+                    "username": "VILHALVA",
+                    "text": "FOI UMA DELICIA!",
+                    "moment_id": 6,
+                    "created_at": "2024-04-01T16:58:35.000-05:00",
+                    "updated_at": "2024-04-01T16:58:35.000-05:00"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "TOCANDO EM UMA BANDA AO VIVO",
+            "description": "Tocar em uma banda ao vivo é uma experiência eletrizante que combina paixão, técnica e conexão com o público. Desde os primeiros acordes até a última batida do tambor, cada momento é uma jornada emocional tanto para os músicos quanto para os espectadores.\r\n\r\nNo momento em que as luzes do palco se acendem e os primeiros acordes ressoam pelos alto-falantes, uma onda de energia percorre o ambiente. Os músicos se entregam ao ritmo, alimentados pela empolgação da multidão diante deles. O som se expande, preenchendo o espaço com uma mistura envolvente de harmonias e melodias.\r\n\r\nEnquanto a música flui, os músicos se conectam em um nível profundo, cada nota e batida tecendo uma tapeçaria sonora coletiva. O palco se torna um playground de expressão criativa, onde solos de guitarra arrebatadores, linhas de baixo pulsantes e ritmos de bateria frenéticos se entrelaçam em uma sinfonia de som.\r\n\r\nA interação com o público é essencial para a experiência ao vivo. Os músicos alimentam-se da energia da multidão, trocando sorrisos, acenos e palavras de incentivo. O público, por sua vez, responde com aplausos, danças e cantos, criando uma atmosfera de comunhão e celebração compartilhada.\r\n\r\nÀ medida que o setlist avança, o tempo parece desacelerar, permitindo que todos presentes se percam na música. Cada canção é uma história contada através de acordes e letras, evocando emoções que ressoam profundamente nos corações dos ouvintes.\r\n\r\nQuando as luzes do palco finalmente se apagam e o último acorde desaparece no ar, fica a sensação de euforia e satisfação. Tocar em uma banda ao vivo é mais do que uma simples performance - é uma experiência de comunhão, criatividade e conexão que transcende as barreiras do tempo e do espaço.",
+            "image": "61ca47ec-0bed-4563-bf63-136d39ce8115.jpg",
+            "created_at": "2024-04-01T16:59:45.000-05:00",
+            "updated_at": "2024-04-01T16:59:45.000-05:00",
+            "comments": [
+                {
+                    "id": 6,
+                    "username": "VILHALVA",
+                    "text": "O SHOW DUROU 3 HORAS!",
+                    "moment_id": 7,
+                    "created_at": "2024-04-01T17:00:19.000-05:00",
+                    "updated_at": "2024-04-01T17:00:19.000-05:00"
+                }
+            ]
+        }
+    ]
+}
