@@ -34,13 +34,28 @@
 Portanto, o projeto "Instagram em Angular" pode ser considerado um CRUD completo, pois oferece funcionalidades para criar, ler, atualizar e excluir postagens.
 
 ## EXECUTANDO O PROJETO:
-1. **Iniciando o Servidor Localmente:**
+1. **Instalando as Depêndencias:**
+   - Para instalar as dependências listadas no arquivo "package.json", você pode usar o comando `npm install` ou simplesmente `npm i` no terminal. Certifique-se de estar no diretório do seu projeto onde o arquivo "package.json" está localizado (No diretório `moments` e `API`). O npm irá ler o arquivo "package.json" e instalar todas as dependências listadas nele. 
+
+   - Aqui está o comando:
+
+   ```bash
+   npm install
+   ```
+
+   ou
+
+   ```bash
+   npm i
+   ```
+
+2. **Iniciando o Servidor Localmente:**
    Antes de fazer solicitações para a URL da API, é necessário iniciar o servidor localmente. Se estiver usando o framework Adonis.js, você pode iniciar o servidor executando o comando (No diretório: `API`):
    ```
    node ace serve
    ```
 
-2. **Baixando e Instalando o Postman:**
+3. **Baixando e Instalando o Postman:**
    1. Acesse o site oficial do Postman em [https://www.postman.com/](https://www.postman.com/).
    2. Clique no botão "Download" para baixar o instalador do Postman compatível com o seu sistema operacional (Windows, macOS, Linux).
    3. Após o download, execute o instalador e siga as instruções na tela para concluir a instalação.
@@ -54,7 +69,7 @@ Portanto, o projeto "Instagram em Angular" pode ser considerado um CRUD completo
    8. Selecione o método HTTP apropriado (GET) e, se necessário, adicione parâmetros, headers ou corpo da solicitação.
    9. Clique em "Save" (Salvar) para salvar a solicitação na coleção.
 
-3. **Importar o arquivo `DATABASE.json`** 
+4. **Importar o arquivo `DATABASE.json`** 
    1. Abra o Postman e certifique-se de estar logado em sua conta, pois isso permite salvar e sincronizar suas coleções.
 
    2. No canto superior esquerdo do aplicativo Postman, clique no botão "Import" (Importar) para abrir o menu de importação.
@@ -70,21 +85,6 @@ Portanto, o projeto "Instagram em Angular" pode ser considerado um CRUD completo
    7. Depois que o processo de importação for concluído, você verá uma mensagem confirmando que o arquivo foi importado com sucesso.
 
    8. Agora você poderá acessar as solicitações, coleções ou ambientes importados na barra lateral esquerda do Postman, onde poderá visualizá-los e executá-los conforme necessário.
-
-4. **Instalando as Depêndencias:**
-   - Para instalar as dependências listadas no arquivo "package.json", você pode usar o comando `npm install` ou simplesmente `npm i` no terminal. Certifique-se de estar no diretório do seu projeto onde o arquivo "package.json" está localizado (No diretório `moments`). O npm irá ler o arquivo "package.json" e instalar todas as dependências listadas nele. 
-
-   - Aqui está o comando:
-
-   ```bash
-   npm install
-   ```
-
-   ou
-
-   ```bash
-   npm i
-   ```
 
 5. **Executando o Aplicativo:**
    - Para subir o servidor, no diretório do seu [projeto](./CODIGO), digite o seguinte comando no Terminal/CMD:
