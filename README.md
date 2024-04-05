@@ -50,7 +50,7 @@ Portanto, o projeto "Instagram em Angular" pode ser considerado um CRUD completo
    ```
 
 2. **Iniciando o Servidor Localmente:**
-   Antes de fazer solicitações para a URL da API, é necessário iniciar o servidor localmente. Se estiver usando o framework Adonis.js, você pode iniciar o servidor executando o comando (No diretório: `API`):
+   Antes de fazer solicitações para a URL da API, é necessário iniciar o servidor localmente. Se estiver usando o framework Adonis.js, você pode iniciar o servidor executando o comando no diretório: `CODIGO/API`:
    ```
    node ace serve
    ```
@@ -60,10 +60,11 @@ Portanto, o projeto "Instagram em Angular" pode ser considerado um CRUD completo
    ```
     http://127.0.0.1:3333/api/moments
    ```
+   - Localize o arquivo "DATABASE.json" em `CODIGO/DATABASE e selecione-o para importar.
    - Se não estiver familiarizado com esse processo, confira este [curso](https://github.com/VILHALVA/CURSO-DE-REST-API) para obter orientações detalhadas.
 
 4. **Executando o Aplicativo:**
-   - Para subir o servidor, no diretório do seu [projeto](./CODIGO), abra outro Terminal/CMD e digite o seguinte comando:
+   - Para subir o servidor, no diretório `CODIGO/moments`, abra outro Terminal/CMD e digite o seguinte comando:
    ```bash
    ng serve
    ```
