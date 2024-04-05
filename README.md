@@ -55,45 +55,21 @@ Portanto, o projeto "Instagram em Angular" pode ser considerado um CRUD completo
    node ace serve
    ```
 
-3. **Baixando e Instalando o Postman:**
-   1. Acesse o site oficial do Postman em [https://www.postman.com/](https://www.postman.com/).
-   2. Clique no botão "Download" para baixar o instalador do Postman compatível com o seu sistema operacional (Windows, macOS, Linux).
-   3. Após o download, execute o instalador e siga as instruções na tela para concluir a instalação.
-   4. Na barra lateral esquerda, clique no botão "New" (Novo) e selecione "Collection" (Coleção) para criar uma nova coleção.
-   5. Dê um nome à sua coleção e clique em "Create" (Criar).
-   6. Dentro da coleção, clique no botão "New" e selecione "Request" (Solicitação) para adicionar uma nova solicitação.
-   7. Dê um nome à sua solicitação e insira a URL da API:
-      ```
-      http://127.0.0.1:3333/api/moments
-      ```
-   8. Selecione o método HTTP apropriado (GET) e, se necessário, adicione parâmetros, headers ou corpo da solicitação.
-   9. Clique em "Save" (Salvar) para salvar a solicitação na coleção.
+3. **Testando API:**
+   - Para testar a API, você pode utilizar uma ferramenta de cliente HTTP, como o **Postman**, **Insomnia**, **Paw** ou **SoapUI**. Você pode acessar a API usando o seguinte link:
+   ```
+    http://127.0.0.1:3333/api/moments
+   ```
+   - Se não estiver familiarizado com esse processo, confira este [curso](https://github.com/VILHALVA/CURSO-DE-REST-API) para obter orientações detalhadas.
 
-4. **Importar o arquivo `DATABASE.json`** 
-   1. Abra o Postman e certifique-se de estar logado em sua conta, pois isso permite salvar e sincronizar suas coleções.
-
-   2. No canto superior esquerdo do aplicativo Postman, clique no botão "Import" (Importar) para abrir o menu de importação.
-
-   3. No menu de importação, selecione a opção "Import File" (Importar Arquivo).
-
-   4. Localize o arquivo "DATABASE.json" em `./CODIGO/DATABASE` e selecione-o para importar.
-
-   5. Após selecionar o arquivo, clique em "Open" (Abrir) para iniciar o processo de importação.
-
-   6. O Postman irá analisar o arquivo JSON e importar as solicitações, coleções ou ambientes presentes nele.
-
-   7. Depois que o processo de importação for concluído, você verá uma mensagem confirmando que o arquivo foi importado com sucesso.
-
-   8. Agora você poderá acessar as solicitações, coleções ou ambientes importados na barra lateral esquerda do Postman, onde poderá visualizá-los e executá-los conforme necessário.
-
-5. **Executando o Aplicativo:**
-   - Para subir o servidor, no diretório do seu [projeto](./CODIGO), digite o seguinte comando no Terminal/CMD:
+4. **Executando o Aplicativo:**
+   - Para subir o servidor, no diretório do seu [projeto](./CODIGO), abra outro Terminal/CMD e digite o seguinte comando:
    ```bash
    ng serve
    ```
    - Acesse o APP no navegador visitando `http://localhost:4200`.
 
-6. **Usando o APP:**
+5. **Usando o APP:**
    1. **Compartilhando um Momento:**
       - Clique no botão "Compartilhar" para iniciar o processo de compartilhamento de um momento.
       - Será exibido um formulário onde você pode adicionar detalhes sobre o momento que deseja compartilhar.
@@ -118,6 +94,7 @@ Portanto, o projeto "Instagram em Angular" pode ser considerado um CRUD completo
 * [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
 * [CURSO DE NODEJS](https://github.com/VILHALVA/CURSO-DE-NODEJS)
 * [CURSO DE ANGULAR](https://github.com/VILHALVA/CURSO-DE-ANGULAR)
+* [CURSO DE REST API](https://github.com/VILHALVA/CURSO-DE-REST-API)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
