@@ -1,4 +1,4 @@
-# INSTAGRAM EM ANGULAR
+# MOMENTS COM ANGULAR
 👨‍🏫PROJETO CRIADO PARA O CURSO DE ANGULAR.
 
 <img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br> 
@@ -9,7 +9,7 @@
 <img src="./IMAGENS/FOTO_6.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
-- O projeto "Instagram em Angular" é uma aplicação web que permite aos usuários compartilhar momentos por meio de fotos e legendas, seguindo o conceito básico da popular rede social Instagram. Esta aplicação será desenvolvida utilizando o framework Angular para o frontend e o  `Postman` (Com `DATABASE.json`) como banco de dados para armazenar as informações.
+- O projeto "MOMENTS COM ANGULAR" é uma aplicação web que permite aos usuários compartilhar momentos por meio de fotos e legendas, seguindo o conceito básico da popular rede social Instagram. Esta aplicação será desenvolvida utilizando o framework Angular para o frontend e o  `Postman` (Com `DATABASE.json`) como banco de dados para armazenar as informações.
 
 ## RECURSOS:
 1. **Feed de Fotos:** Os usuários terão acesso a um feed dinâmico onde poderão visualizar fotos compartilhadas.
