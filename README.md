@@ -94,12 +94,14 @@ Portanto, o projeto "Instagram em Angular" pode ser considerado um CRUD completo
 * [CURSO DE HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
 * [CURSO DE NODEJS](https://github.com/VILHALVA/CURSO-DE-NODEJS)
 * [CURSO DE ANGULAR](https://github.com/VILHALVA/CURSO-DE-ANGULAR)
-* [CURSO DE REST API](https://github.com/VILHALVA/CURSO-DE-REST-API)
+* [CURSO DE API REST](https://github.com/VILHALVA/CURSO-DE-API-REST)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
 - [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [PROJETO CRIADO PARA O CURSO DE ANGULAR](https://github.com/VILHALVA/CURSO-DE-ANGULAR)
+- [VEJA O VIDEO SOBRE A CRIAÇÃO DA ADONISJS API](https://youtu.be/y8XfJJYhXPE?si=PF2DaPA8zHJoA43h)
+- [ADONISJS API CRIADO PELO "matheusbattisti"](https://github.com/matheusbattisti/curso_adonis_api_yt)
 
 
 
