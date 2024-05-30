@@ -93,7 +93,7 @@ Portanto, o projeto "Instagram em Angular" pode ser considerado um CRUD completo
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
 * [CURSO DE NODEJS](https://github.com/VILHALVA/CURSO-DE-NODEJS)
 * [CURSO DE ANGULAR](https://github.com/VILHALVA/CURSO-DE-ANGULAR)
-* [CURSO DE JSON SERVER](https://github.com/VILHALVA/CURSO-DE-HTML-JSON-SERVER)
+* [CURSO DE JSON SERVER](https://github.com/VILHALVA/CURSO-DE-JSON-SERVER)
 * [CURSO DE API REST](https://github.com/VILHALVA/CURSO-DE-API-REST)
 * [CURSO DE ADONISJS](https://github.com/VILHALVA/CURSO-DE-ADONISJS)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
